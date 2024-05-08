@@ -2,9 +2,10 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div>
-      <h1 className="text-blue-600 text-center font-bold underline">Hello world!</h1>
-    </div>
+    <>
+      <div className="bg-blue-500 h-[72px] sm:h-20 w-full">
+      </div>
+    </>
   )
 }
 
